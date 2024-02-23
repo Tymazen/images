@@ -23,3 +23,4 @@
 ![AF_filler_example](https://github.com/Tymazen/images/assets/67207109/2cab6fce-5725-4c39-85cc-32a1d157f1f6)
 ![searing_touch_filler_example](https://github.com/Tymazen/images/assets/67207109/e66801c4-fa4c-4080-858c-bca18569f3b9)
 ![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
+![sever](https://github.com/Tymazen/images/assets/67207109/dd13ff7d-c37c-4245-b1f0-34738c0359fa)
