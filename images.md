@@ -22,3 +22,4 @@
 ![filler_with_shifting_power](https://github.com/Tymazen/images/assets/67207109/7c49ae40-5d5e-4b67-a48e-c30c17eb31dd)
 ![AF_filler_example](https://github.com/Tymazen/images/assets/67207109/2cab6fce-5725-4c39-85cc-32a1d157f1f6)
 ![searing_touch_filler_example](https://github.com/Tymazen/images/assets/67207109/e66801c4-fa4c-4080-858c-bca18569f3b9)
+![discpicpng](https://github.com/Tymazen/images/assets/67207109/55fa611d-779b-47d2-8eb1-b0e3b62734e8)
