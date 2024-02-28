@@ -27,8 +27,7 @@
 ![sever_image](https://github.com/Tymazen/images/assets/67207109/66a5d7d1-7260-4a3c-8e13-a1f287ac7bc4)
 ![Alter_time_GCD_example](https://github.com/Tymazen/images/assets/67207109/f34499ce-f51f-414d-8588-d93f84fe624b)
 ![SKB_Bust_combined_no_hu](https://github.com/Tymazen/images/assets/67207109/645857dd-272b-40d7-b685-68b6d93bb131)
-
-
+![Sever_logo_white_transparent_background](https://github.com/Tymazen/images/assets/67207109/30eec343-3469-4dd1-9fd7-9e99b8c7fbb1)
 
 # videos:
 
